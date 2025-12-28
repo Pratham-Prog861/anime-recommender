@@ -44,7 +44,7 @@ Visualize anime statistics with interactive charts and graphs.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/anime-recommender.git
+git clone https://github.com/pratham-prog861/anime-recommender.git
 cd anime-recommender
 ```
 
